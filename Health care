@@ -1,0 +1,14 @@
+Data Analysis with Power BI using SQL Queries on COVID-19 Dataset – Power BI, DAX, SQL, Data Models, Advanced MS Excel
+• Created complex SQL Queries using joins to perform Data cleaning, and Data Transformation and performed analysis 
+on the COVID-19 Dataset to find the correlation associated with COVID-19 cases.
+• Designed ETL pipelines into Data warehousing with 20+ records, and used SSIS to extract, transform and load data from 
+the SQL server into the data warehouse.
+• Created a dynamic dashboard using Power BI DAX operations to generate meaningful insights & presented the analysis.
+Building an Emergency room Dashboard using PowerBI and Python - web scrapping - Machine Learning, NumPy, Pandas.
+• Performed Data cleaning and transformation on data that was extracted through web scrapping usingPython- BeautifulSoup.
+• Generated Machine Learning algorithms using Pandas, NumPy, and matplotlib to analyze the data.
+• Created a dynamic dashboard in Power BI by connecting to various data sources.
+Advanced statistical analysis (Regression) on Relational Database – MS Excel, solver, VLOOKUP, Regression Analysis.
+• Implemented explanatory analysis (Hypothesis testing) and statistical analysis (Regression analysis) on complex data 
+from multiple sources to predict the key parameter that helps in predicting the desired output.
+• Created interactive Power BI dashboards with complex DAX to translate analytic insightsinto data-driven stories
